@@ -1,0 +1,2 @@
+# Customer_Information_Management_Systems
+客戶資訊管理系統，實現基礎的CRUD功能。使用java並以MVC架構開發。
